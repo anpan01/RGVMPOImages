@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 389.9 216.2">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-1, .cls-4 {
+        stroke: #666;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+
+      .cls-2 {
+        font-size: 61px;
+        fill: gray;
+        font-family: SegoeUIBlack, Segoe UI;
+      }
+
+      .cls-4 {
+        fill: #f3ac2e;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_2-2" data-name="Layer 2">
+      <g>
+        <g>
+          <path class="cls-1" d="M381.3,9.5A8,8,0,0,0,379,4.8a8.2,8.2,0,0,0-4.6-2.3H139.5a9.1,9.1,0,0,0-5.8,2.3,10.4,10.4,0,0,0-3.1,6.6V134H381.3Z"/>
+          <text class="cls-2" transform="translate(188.3 81.6)">36%</text>
+        </g>
+        <polygon class="cls-3" points="67.4 61.8 67.4 102.7 92.5 95.8 92.5 61.8 67.4 61.8"/>
+        <polygon class="cls-3" points="130.4 158.4 130.4 157.6 130.4 135 119.2 135 119.2 158.4 130.4 158.4"/>
+        <path class="cls-1" d="M119.2,31.3H74.8a89.7,89.7,0,0,0-14,3.8A88.6,88.6,0,0,0,32.3,52.5a16.2,16.2,0,0,0-6.6,0C13.9,55.3,6.1,74.3,5.2,99.3V135h114ZM65.4,103.5l-45.2,7a48.9,48.9,0,0,1-1.9-5.4c-3.4-12.6-.3-28,9.2-38.3a35.4,35.4,0,0,1,5.8-5H65.4Zm9-.8V61.8H99.5v34Z"/>
+        <circle class="cls-4" cx="59.3" cy="192.7" r="20" transform="translate(-118.9 98.4) rotate(-45)"/>
+        <circle class="cls-4" cx="286.4" cy="192.7" r="20"/>
+        <circle class="cls-4" cx="338.2" cy="193.7" r="20" transform="translate(-35.5 82.9) rotate(-13.3)"/>
+        <path class="cls-4" d="M2.5,158.5v17.9a19.1,19.1,0,0,0,5.2,10.7,19.9,19.9,0,0,0,10.8,5.4H31.3a28.6,28.6,0,0,1,57.1,0h17.8v7.7H241v-7.4h17c.3-12.8,8.7-24,20.5-27.4s27.8,2.8,34,15.9a28.8,28.8,0,0,1,55.2,11.5h8.5a12.7,12.7,0,0,0,8.5-4.6,12.2,12.2,0,0,0,2.7-6.6V158.1h-6.2V117.2H130.6v40.9H119.4V117.2H5.4v41.3Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
