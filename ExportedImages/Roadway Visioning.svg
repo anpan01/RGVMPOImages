@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 648.8 81.3">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #5cbae3;
+      }
+
+      .cls-2 {
+        opacity: 0.25;
+      }
+
+      .cls-3 {
+        font-size: 32px;
+        fill: #167085;
+        font-family: SegoeUI-SemiboldItalic, Segoe UI;
+        font-weight: 600;
+        font-style: italic;
+      }
+
+      .cls-4 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-5 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-6 {
+        letter-spacing: -0.03em;
+      }
+
+      .cls-7 {
+        letter-spacing: -0.08em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <rect class="cls-1" y="68.2" width="648.8" height="13.05"/>
+        <rect class="cls-2" width="648.8" height="63.58"/>
+        <g>
+          <circle class="cls-1" cx="516.4" cy="35.2" r="6.2"/>
+          <path class="cls-1" d="M529.7,24.9a16.5,16.5,0,0,0-13.3-7.1A16.8,16.8,0,0,0,503,24.9c-3.3,4.7-2.9,9.9-2.7,12.6a27.1,27.1,0,0,0,3.1,10.2,109.3,109.3,0,0,0,13,20.5,114.2,114.2,0,0,0,12.9-20.5,27.1,27.1,0,0,0,3.1-10.2C532.6,34.8,533,29.6,529.7,24.9ZM516.4,45.7a10.5,10.5,0,1,1,10.5-10.5A10.6,10.6,0,0,1,516.4,45.7Z"/>
+        </g>
+        <text class="cls-3" transform="translate(161.8 51.9)"><tspan class="cls-4">RO</tspan><tspan x="43.3" y="0">A</tspan><tspan class="cls-5" x="64.7" y="0">D</tspan><tspan class="cls-6" x="87.5" y="0">W</tspan><tspan class="cls-7" x="117.5" y="0">A</tspan><tspan x="136.4" y="0">Y VISIONING</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
