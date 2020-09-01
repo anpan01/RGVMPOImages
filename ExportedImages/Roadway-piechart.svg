@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 272.4 176.6">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f2ac2d;
+      }
+
+      .cls-2 {
+        fill: #8fd6ef;
+      }
+
+      .cls-3 {
+        fill: #f6e8c7;
+      }
+
+      .cls-4 {
+        fill: #f2764f;
+      }
+
+      .cls-5 {
+        fill: #27aae1;
+      }
+
+      .cls-6 {
+        fill: #167085;
+      }
+
+      .cls-7 {
+        fill: #a7a9ac;
+      }
+
+      .cls-8, .cls-9 {
+        font-size: 8.78px;
+        fill: #231f20;
+        font-family: SegoeUI-SemilightItalic, Segoe UI;
+        font-weight: 300;
+        font-style: italic;
+      }
+
+      .cls-9 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: -0.06em;
+      }
+
+      .cls-12 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-13 {
+        letter-spacing: -0.01em;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <g>
+          <g>
+            <rect class="cls-1" x="196.5" y="10.7" width="23.4" height="15.52"/>
+            <path class="cls-1" d="M88.3,88.2,66.9,173.9A88.3,88.3,0,0,1,2.6,66.9C12.6,27,47.1,0,88.3,0Z"/>
+          </g>
+          <g>
+            <rect class="cls-2" x="196.5" y="34" width="23.4" height="15.52"/>
+            <path class="cls-2" d="M88.3,88.2l60.2,64.6a87.3,87.3,0,0,1-81.6,21.1Z"/>
+          </g>
+          <g>
+            <rect class="cls-3" x="196.5" y="57.2" width="23.4" height="15.52"/>
+            <path class="cls-3" d="M88.3,88.2,172.2,61c10.9,33.7,2.2,67.6-23.7,91.8Z"/>
+          </g>
+          <g>
+            <rect class="cls-4" x="196.5" y="80.5" width="23.4" height="15.52"/>
+            <path class="cls-4" d="M88.3,88.2l55.5-68.5A85.1,85.1,0,0,1,172.2,61Z"/>
+          </g>
+          <g>
+            <rect class="cls-5" x="196.5" y="103.8" width="23.4" height="15.52"/>
+            <path class="cls-5" d="M88.3,88.2,135,13.4a78.2,78.2,0,0,1,8.8,6.3Z"/>
+          </g>
+          <g>
+            <rect class="cls-6" x="196.5" y="127" width="23.4" height="15.52"/>
+            <path class="cls-6" d="M88.3,88.2,91.3.1A82.5,82.5,0,0,1,135,13.4Z"/>
+          </g>
+          <g>
+            <rect class="cls-7" x="196.5" y="150.3" width="23.4" height="15.52"/>
+            <path class="cls-7" d="M88.3,88.2V0h3Z"/>
+          </g>
+        </g>
+        <g>
+          <text class="cls-8" transform="translate(222.8 21.7)">Car</text>
+          <text class="cls-8" transform="translate(222.8 45)">Bike</text>
+          <text class="cls-9" transform="translate(222.8 68.3)">W<tspan class="cls-10" x="7.6" y="0">alk</tspan></text>
+          <text class="cls-8" transform="translate(222.8 91.6)">Public <tspan class="cls-11" x="24.6" y="0">T</tspan><tspan x="28.6" y="0">ransit</tspan></text>
+          <text class="cls-8" transform="translate(222.8 114.8)">G<tspan class="cls-12" x="6.1" y="0">r</tspan><tspan x="9" y="0">eyhound</tspan></text>
+          <text class="cls-8" transform="translate(222.8 138.1)">Ridesha<tspan class="cls-13" x="28.8" y="0">r</tspan><tspan x="31.7" y="0">e</tspan></text>
+          <text class="cls-8" transform="translate(222.8 161.4)">Other</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
